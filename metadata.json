@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Maya and Jarvis AI personal voice assistant with phone controls, app launcher, WhatsApp, UPI payments, notes, and dual Maya/Jarvis personas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
